@@ -14,4 +14,6 @@ This is a Discord bot using Python and the [interactions.py]([https://discordpy.
 To get set up, you'll need to follow [these bot account setup instructions](https://discordpy.readthedocs.io/en/stable/discord.html),
 and then copy the token for your bot and added it as a secret with the key of `TOKEN` in the "Secrets (Environment variables)" panel.
 
-
+## Current Features
+- `/animwage `  : Image Generation based on "cagliostrolab/animagine-xl-3.1"
+- `/generator` : Text Generation based on "google/flan-t5-small" (can be deprecated in future)
